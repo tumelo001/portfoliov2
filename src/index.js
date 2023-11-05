@@ -8,6 +8,6 @@ root.render(
 );
 
 
-setTimeout(function() {
-   document.querySelector(".goUp").click();
+setInterval(function() {
+   document.querySelector(".next-arrow").click();
 }, 5000);

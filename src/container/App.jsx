@@ -28,7 +28,7 @@ export default function App() {
         onClick={() => {
           
           window.scrollTo({
-            top: 400,
+            top: 0,
             behavior: "smooth",
           });
         }}

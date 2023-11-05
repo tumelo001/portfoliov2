@@ -13,12 +13,12 @@ export default function HomeIntro(){
                 </ul>
             </div>
             <div className="profile-img">
-                <img src="https://i.pinimg.com/736x/c7/56/3c/c7563c4762333beec431cf88be4aa5fa.jpg" alt="profile image_2"/>
+                <img src="./images/profileimg.png" alt="profile image_2"/>
             </div>
             <div className='profile-info'>
                 <h1 className="heading">Hi, I'm Tumelo</h1>
                 <h3 className="sub-heading">Junior Software Developer</h3>
-                <p className="discription">I'm third year student at the University of the Free State studying BSc in Information Technology with a major in Computer Science and Business Management. I am passionate about using technology to solve real-world problems and I love minions. </p>
+                <p className="discription">I'm third year student at the University of the Free State studying BSc in Information Technology with a major in Computer Science and Business Management. I am passionate about using technology to solve real-world problems. </p>
                 <button className="btn-contact-me"><a href="#contact">Get in touch</a></button>
             </div>
         </div>
