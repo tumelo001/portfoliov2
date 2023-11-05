@@ -10,4 +10,4 @@ root.render(
 
 setInterval(function() {
    document.querySelector(".next-arrow").click();
-}, 5000);
+}, 10000);
