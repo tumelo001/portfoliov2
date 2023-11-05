@@ -13,7 +13,7 @@ export default function HomeIntro(){
                 </ul>
             </div>
             <div className="profile-img">
-                <img src="./images/profileimg.png" alt="profile image_2"/>
+                <img src="./images/profileImg.png" alt="profile image_2"/>
             </div>
             <div className='profile-info'>
                 <h1 className="heading">Hi, I'm Tumelo</h1>

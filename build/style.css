@@ -353,6 +353,9 @@ nav {
     color: #FCA311;
     margin: 5px 0 30px;
 }
+.middle-section{
+    transition: 0.25s ease-in;
+}
 .middle-section ul{
     list-style:circle;
     margin: 25px ;
