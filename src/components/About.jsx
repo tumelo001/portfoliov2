@@ -5,11 +5,11 @@ export default function About() {
             <div className="about-me-timeline" >
                 <div className="about-highSchool info">
                     <h4>January 2015 - December 2019</h4>
-                    <p>Attended Mainganya Secondary School and matriculated with an average of 66%</p>
+                    <p>Attended Mainganya Secondary School and matriculated with an average of </p>
                 </div>
                 <div className="about-university info">
                 <h4>January 2021 - Present</h4>
-                    <p>Enrolled at the University of the Free State to pursue a BSc IT degree with a major in Computer Science and Business, Currently maintaining an average of 82%.</p>
+                    <p>Enrolled at the University of the Free State to pursue a BSc IT degree with a major in Computer Science and Business, Currently maintaining an average of </p>
                 </div>
                 <div className="about-work info">
                 <h4>August 2022 - Present</h4>
