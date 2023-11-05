@@ -647,7 +647,7 @@ footer{
         margin-bottom: 0;
     }
     .footer-contact-details{
-        margin-top: 100px
+        margin-top: 80px;
     }
 
     .footer-contact-form form{
@@ -657,10 +657,10 @@ footer{
      .footer-social-icons{
         justify-content: center;
         flex-wrap: wrap;
-        margin: 0px 0px 20px -50px;
+        margin: 40px 0px 20px 0px;
      }
      .callMe{
-        margin-left: 0;
+        margin: 0 0 40px;
     }
 }
 
