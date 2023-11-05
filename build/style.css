@@ -444,6 +444,7 @@ footer{
     display:flex; 
     align-items: flex-end;
     margin-left: 30px;
+    height: 40px;
 }
 
 
@@ -571,10 +572,6 @@ footer{
         margin-left: -31px;
     }
 
-    .profile-info {
-        margin-top: -171px;
-    }
-
     .goUp {
         bottom: 75px;
         right: 15px;
@@ -663,7 +660,7 @@ footer{
         margin: 40px 0px 20px 0px;
      }
      .callMe{
-        margin: 0 0 40px;
+        margin: 0 0 40px 15px;
     }
 }
 
