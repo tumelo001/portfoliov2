@@ -4,7 +4,7 @@ import EmailIcon from "@mui/icons-material/Email";
 import LocalPhoneIcon from "@mui/icons-material/LocalPhone";
 
 export default function Contact() {
-  const customIconSize = { fontSize: 40 };
+  const customIconSize = { fontSize: 30 };
 
   return (
     <footer>
@@ -39,7 +39,7 @@ export default function Contact() {
               </li>
             </ul>
           </div>
-          <div style={{fontSize: 20, display:"flex", alignItems: "flex-end" ,marginLeft: 30}}>
+          <div className="callMe">
             <LocalPhoneIcon
               className="social-icons-icon"
               style={{fontSize:30, marginTop: 40}}

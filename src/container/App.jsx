@@ -22,7 +22,7 @@ export default function App() {
             <button className="goUp" onClick={()=>{
                                     document.body.scrollTop = 0;
                                     document.documentElement.scrollTop = 0;
-                                        }}><ArrowUpwardIcon  style={{fontSize:"50px", border: "2px solid #FCA311", borderRadius: "100%", color: "#FCA311", display: scroll ? "block" : "none"}}/></button>
+                                        }}><ArrowUpwardIcon  style={{fontSize:"35px", border: "2px solid #FCA311", borderRadius: "100%", color: "#FCA311", display: scroll ? "block" : "none"}}/></button>
             <SkillSection /> 
             <Projects />
             <Contact /> 

@@ -436,8 +436,12 @@ footer{
     margin-top: 0;
 }
 
-
-
+.callMe{
+    font-size: 20px; 
+    display:flex; 
+    align-items: flex-end;
+    margin-left: 30px;
+}
 
 
 @media only screen and (max-width: 768px) {
@@ -599,10 +603,19 @@ footer{
     .skills-section-skill {
         width: 200px;
     }
-
+    .skills-main-section{
+        padding-top: 75px;
+    }
+    .skills-section{
+        width: 335px;
+    }
     .middle-section {
         width: 300px;
-        padding: 160px 0 0;
+        padding: 110px 0 0;
+        margin: 0;
+    }
+    .projects-main-section{
+        height: 800px;
     }
     .project-slideshow{
         width: 300px;
@@ -625,6 +638,7 @@ footer{
     }
     footer{
         margin-bottom: 30px;
+        padding-top: 0;
     }
     .footer-main{
         flex-direction: column-reverse;
@@ -635,9 +649,7 @@ footer{
     .footer-contact-details{
         margin-top: 100px
     }
-    .footer-contact-details-name{
-        display: none;
-    }
+
     .footer-contact-form form{
         margin: auto;
     }
@@ -647,6 +659,9 @@ footer{
         flex-wrap: wrap;
         margin: 0px 0px 20px -50px;
      }
+     .callMe{
+        margin-left: 0;
+    }
 }
 
 .oliver{
