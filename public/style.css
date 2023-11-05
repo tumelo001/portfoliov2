@@ -258,7 +258,7 @@ nav {
     align-items: center;
     flex-direction: column;
     padding-top: 120px;
-    margin-top: -140px; 
+    margin-top: 0px; 
     background-color: #e5e5e5;
 }
 
