@@ -6,3 +6,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
    <App />
 );
+
+
+setTimeout(function() {
+   document.querySelector(".goUp").click();
+}, 5000);
